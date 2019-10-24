@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "784667137887",
+    "firebase_url": "https://robin-b24ce.firebaseio.com",
+    "project_id": "robin-b24ce",
+    "storage_bucket": "robin-b24ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784667137887:android:22d941863ef6c1790988ea",
+        "android_client_info": {
+          "package_name": "com.example.k_fintech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784667137887-2qeb4v1dq6thhb797d8v0mk1t8oahtvi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.k_fintech",
+            "certificate_hash": "9f8e3eb142338ce216f827c78af81a5d23394f65"
+          }
+        },
+        {
+          "client_id": "784667137887-osmtbta05udtlasukmf3of2hqhf3fm55.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCcTvBccKgk2SnENwSOCCWaXuPMkSjB04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "784667137887-osmtbta05udtlasukmf3of2hqhf3fm55.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784667137887:android:921f07f6c0139aad0988ea",
+        "android_client_info": {
+          "package_name": "com.kfintech.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784667137887-osmtbta05udtlasukmf3of2hqhf3fm55.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCcTvBccKgk2SnENwSOCCWaXuPMkSjB04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "784667137887-osmtbta05udtlasukmf3of2hqhf3fm55.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784667137887:android:30daa477f3e0e9b50988ea",
+        "android_client_info": {
+          "package_name": "k_fintech.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784667137887-osmtbta05udtlasukmf3of2hqhf3fm55.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCcTvBccKgk2SnENwSOCCWaXuPMkSjB04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "784667137887-osmtbta05udtlasukmf3of2hqhf3fm55.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
